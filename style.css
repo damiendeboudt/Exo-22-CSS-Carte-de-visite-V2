@@ -1,0 +1,46 @@
+div {
+    border: solid 5px black;
+    max-width: 800px;
+    box-shadow: 6px 6px 10px black;
+    background-image: url("img/fond.jpeg");
+;
+}
+.image {
+    width: 200px;
+    height: auto;
+    position: relative;
+    left: 599px;
+    bottom: 126px;
+    float: left;
+}
+p, span {
+    color: white;
+    font-size: 20px;
+    margin-left: auto;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+h1{
+    font-weight: bolder;
+    font-family:"Agency FB";
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.mail{
+    text-align: right;
+    color: white;
+    font-size: xx-large;
+}
+.name {
+    font-style: italic;
+    font-family: "Book Antiqua";
+    font-size: large;
+}
+#titre{
+    font-weight: bolder;
+    color: #ffffff;
+    font-size:50px;
+}
